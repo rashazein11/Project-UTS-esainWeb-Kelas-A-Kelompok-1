@@ -22,29 +22,32 @@ Ekstrak zip, lalu buka index.html di browser. Tidak perlu server atau konfiguras
 Halaman: index.html, profil.html, galeri.html, data.html.
 Teknologi: HTML5 + CSS3 murni (tanpa framework, JavaScript, CMS, atau template).
 
-## STRUKTUR
-Project_kelompok1/
-├── index.html
-├── profil.html
-├── galeri.html
-├── data.html
-├── README.txt
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── fonts/
-│   │   ├── poppins-400.woff2
-│   │   └── poppins-700.woff2
-│   └── images/
-│       ├── goa-kontamale.jpg
-│       ├── hero-wakatobi.jpg
-│       ├── logo-wakaloka.svg
-│       ├── mangrove-sombano.jpg
-│       ├── pantai-pulau-anano.jpg
-│       ├── pulau-binongko.jpg
-│       ├── pulau-hoga.jpg
-│       ├── tenun-gelo.jpg
-│       └── tomia-puncak-khayangan.jpg
+## STRUKTUR FOLDER
+```text
+Project_Kelompok01_DesainWeb-A/
+├── README.md
+└── Project_kelompok1/
+    ├── index.html
+    ├── profil.html
+    ├── galeri.html
+    ├── data.html
+    └── assets/
+        ├── css/
+        │   └── style.css
+        ├── fonts/
+        │   ├── poppins-400.woff2
+        │   └── poppins-700.woff2
+        └── images/
+            ├── goa-kontamale.jpg
+            ├── hero-wakatobi.jpg
+            ├── logo-wakaloka.svg
+            ├── mangrove-sombano.jpg
+            ├── pantai-pulau-anano.jpg
+            ├── pulau-binongko.jpg
+            ├── pulau-hoga.jpg
+            ├── tenun-gelo.jpg
+            └── tomia-puncak-khayangan.jpg
+```
 
 ## Keterangan:
 - index.html = halaman utama
